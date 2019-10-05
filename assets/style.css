@@ -1,3 +1,6 @@
 body {
-    background-image: url('band.jpg');
+    background-image: url('drum.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100vh;
 }
